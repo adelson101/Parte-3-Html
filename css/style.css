@@ -323,4 +323,25 @@ body {
         padding: 0 100px;
     }
 
+    .container_descricao{
+        width: auto;
+    }
+
+    .container_caixa{
+        width: auto;
+    }
+
+    .titulo_container{
+        width: auto;
+    }
+    
+    .descricao_container{
+        margin: 10px;
+    }
+
+    .botoes_caixa{
+        width: auto;
+    }
+    
+
 }
