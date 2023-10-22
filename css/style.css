@@ -114,7 +114,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    gap: 3rem;
+    gap: 4rem;
     margin-bottom: 220px;
 }
 
@@ -241,6 +241,10 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 150%; /* 21px */
+}
+
+.container_links > a:hover{
+    color: var(--cor_botao_colorido);
 }
 
 @media (max-width: 1100px){
